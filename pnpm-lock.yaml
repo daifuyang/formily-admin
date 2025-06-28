@@ -153,7 +153,7 @@ importers:
         specifier: ^1.9.11
         version: 1.9.11(@babel/core@7.4.5)
 
-  services/fastify-api:
+  services/fastily-api:
     dependencies:
       '@fastify/autoload':
         specifier: ^6.0.0
@@ -14712,7 +14712,7 @@ snapshots:
       '@types/history': 4.7.11
       '@types/react': 18.3.23
       '@types/react-router': 5.1.20
-      redux: 3.7.2
+      redux: 4.2.1
 
   '@types/react-router@5.1.20':
     dependencies:
